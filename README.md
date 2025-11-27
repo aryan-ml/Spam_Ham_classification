@@ -1,4 +1,4 @@
-# CN014
+# Spam/Ham Classification
 
 Team Name = JIGSAW <br>
 Team Code = CN014  <br>
